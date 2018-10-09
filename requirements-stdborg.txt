@@ -1,0 +1,13 @@
+regex
+urbandict
+requests
+Pillow
+hachoir
+cryptg
+cfscrape
+beautifulsoup4
+wikipedia
+gtts
+googletrans
+gsearch
+google_images_download
