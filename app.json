@@ -25,7 +25,7 @@
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Send .get_id in any group to fill this value. AFK mode (and other sensitive plugins) will not work without this!",
-      "value": "",
+      "value": "-359160250",
       "required": false
     },
     "PRIVATE_CHANNEL_BOT_API_ID": {
@@ -35,11 +35,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "1068477"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "d28a226720a1e542e852797aa1bed987"
     },
     "TMP_DOWNLOAD_DIRECTORY": {
       "description": "This is required for the uploaddownload, speedtest, and telegra.ph file generator plugins.",
